@@ -1,0 +1,74 @@
+nav {
+    text-align: center
+}
+
+.form {
+    font-size: large;
+    text-align: center;
+    text-decoration: double;
+    /* background-image: url(plane.jpg);
+    background-repeat: no-repeat;
+    background-position-x: left; */
+}
+
+.rightIMAGE {
+    height: 50%;
+    position: absolute;
+    right: 0.1px;
+    top: 330px;
+}
+
+.leftIMAGE {
+    height: 50%;
+    position: absolute;
+    left: 15px;
+    top: 300px;
+}
+
+fieldset {
+    color: black;
+}
+
+a:hover {
+    text-decoration-color: brown;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+#email,
+#date,
+#ID,
+#arrival,
+#city,
+#select,
+#pay,
+#last,
+#credit,
+#password,
+#first,
+#expiration {
+    color: rgba(49, 97, 105, 0.671);
+}
+
+.header {
+    padding-top: 10px;
+}
+
+h3.blue {
+    height: 42px;
+    background-image: url(pngwing.com.png);
+    color: white;
+    font-size: 35px;
+}
+
+h1 {
+    color: white;
+    background-image: url(pngwing.com.png
+);
+}
+
+button:hover {
+    font-weight: bolder;
+    color: blueviolet;
+    text-decoration: solid;
+}
